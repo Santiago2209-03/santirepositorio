@@ -1,0 +1,13 @@
+  h1 {
+    color: blueviolet;
+    background: #f58d05;
+    margin: 20px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: groove;
+    padding: 25px;
+    text-align: center;
+    /* fuentes por default: serif, sans-serif, cursiver, fanrasy, monospace */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+  }
